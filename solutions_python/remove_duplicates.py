@@ -1,4 +1,4 @@
-def removeDuplicates(nums):
+def remove_duplicates(nums):
     i = 0
     while i < len(nums) - 1:
         if nums[i] == nums[i + 1]:
