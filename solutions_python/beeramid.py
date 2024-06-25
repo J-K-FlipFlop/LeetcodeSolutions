@@ -10,5 +10,3 @@ def beeramid(money, price):
         total_beers += i**2
     
     return i - 1
-
-
