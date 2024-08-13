@@ -123,6 +123,7 @@ namespace CodeWarsSolutions
 
                 if (power == 1)
                 {
+                    System.Console.WriteLine("you are here");
                     if (digit == 4) { result.Append("IV"); }
                     else if (digit == 9) { result.Append("IX"); }
                     else if (digit < 4)
