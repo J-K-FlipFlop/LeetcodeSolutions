@@ -10,7 +10,6 @@ namespace CodeWarsSolutions
     {
         public static int FindLongestSub(string s)
         {
-            //aaabcaa
             int pointer1 = 0, pointer2 = 0, max = 0;
             HashSet<int> set = new HashSet<int>();
 
