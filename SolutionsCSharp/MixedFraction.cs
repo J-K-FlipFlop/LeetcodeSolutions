@@ -8,7 +8,7 @@ namespace CodeWarsSolutions
 {
     internal class MixedFraction
     {
-        public static string MixedFractionMethod(string s) //  -42/9
+        public static string MixedFractionMethod(string s)
         {
             string[] nums = s.Split('/');
             int numerator = Int32.Parse(nums[0]);
