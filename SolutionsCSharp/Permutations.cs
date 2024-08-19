@@ -31,8 +31,6 @@ namespace CodeWarsSolutions
                 }
             }
 
-
-            Console.WriteLine(permutations);
             return myList;
         }
 
