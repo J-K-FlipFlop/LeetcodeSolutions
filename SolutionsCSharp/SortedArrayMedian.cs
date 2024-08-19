@@ -40,11 +40,7 @@ namespace CodeWarsSolutions
                 median = Convert.ToDouble(sortedArr[(len/2)]);
             }
 
-            Console.WriteLine(median);
             return median;
         }
-
-        //int[] nums1 = { 1, 2, 3, 4, 9 };
-        //int[] nums2 = { 5, 6, 7, 8, 11 };
     }
 }
